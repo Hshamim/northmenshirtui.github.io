@@ -1177,7 +1177,7 @@ var app = new Vue({
         this.shirtbuttonhole = '';
 
         this.shirtSbutton = '';
-        // this.shirtSbuttonthread = '';
+        this.shirtbuttonSthread = '';
         this.shirtSbuttonhole = '';
 
         this.ffshirtbutton = 'assets/img/varient_img/Shirt_Front/' + variantImageBB;
